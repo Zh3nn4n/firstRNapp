@@ -26,6 +26,7 @@ import {
 
 const App: () => React$Node = () => {
   console.log('Welcome to C308 Lesson04 quiz!');
+  console.log('Your component here');
   return (
     <>
       <StatusBar barStyle="dark-content" />
